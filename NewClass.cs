@@ -8,5 +8,7 @@ namespace ConsoleApp2
 {
     internal class NewClass
     {
+        static void jos_novija_metoda(){
+           
     }
 }
