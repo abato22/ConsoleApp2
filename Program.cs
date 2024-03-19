@@ -7,7 +7,10 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("Novoovoovvo");
+            Console.WriteLine("Novoo");
+            Console.Writeline("Staro")   //komentar
         }
     }
 }
+
+//dodano nešto novo
